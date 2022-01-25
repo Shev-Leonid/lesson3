@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task 7 flex" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task1 flex" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task2 flex" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task3 flex" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task5 flex" vcs="Git" />
   </component>
 </project>
